@@ -1,7 +1,7 @@
 ### Hey There :wink:
 ## Nice to meet you, I´m Lucas Silveira
 
-
+> Check out this links for contact me
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Silveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicacastros/)](https://www.linkedin.com/in/lucas-silveira-portal/) 
 [![Gmail Badge](https://img.shields.io/badge/lucassilveira586@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jecastrops@gmail.com)](mailto:lucassilveira586@gmail.com)
 
