@@ -1,7 +1,7 @@
 ### Olá, me chamo Lucas 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jessica%20Castro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicacastros/)](https://www.linkedin.com/in/lucas-silveira-portal/) 
-[![Gmail Badge](https://img.shields.io/badge/jecastrops@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jecastrops@gmail.com)](mailto:lucassilveira586@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Silveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicacastros/)](https://www.linkedin.com/in/lucas-silveira-portal/) 
+[![Gmail Badge](https://img.shields.io/badge/lucassilveira586@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jecastrops@gmail.com)](mailto:lucassilveira586@gmail.com)
 
 <!--
 **LucSilveira/LucSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
