@@ -3,7 +3,7 @@
 
 <div style="display : flex; align-item: center">
   
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="600px" max-width="600px" width="600px" align="right" alt="Computador">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
   
   <div> Well, talking a little about myself ... I am a development student graduated and studying at the [school Senai of informatics](https://informatica.sp.senai.br/), where I learned to develop systems, such as creating websites and Api´s, and also to create applications for cell phones.
 
