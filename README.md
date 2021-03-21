@@ -1,26 +1,4 @@
-### Hey There :wink:
-## Nice to meet you, I´m Lucas Silveira
 
-> Check out this links for contact me
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Silveira</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Silveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicacastros/)](https://www.linkedin.com/in/lucas-silveira-portal/) 
-[![Gmail Badge](https://img.shields.io/badge/lucassilveira586@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jecastrops@gmail.com)](mailto:lucassilveira586@gmail.com)
-
-> About me
-
-Sou desenvolvedor Full-Stack jr, possuo experiência em trabalhos acadêmicos como desenvolvedor Front-end, Mobile (Android Nativo), Back-end e Designer.
-
-<!--
-**LucSilveira/LucSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucSilveira&show_icons=true&theme=onedark)
