@@ -12,4 +12,13 @@
   
 I got to know this fantastic universe of programming through the [Senai school](https://github.com/senai-desenvolvimento), where they not only taught me how to develop systems, but how to develop myself as a person and as a professional, always instigating me to challenge myself and have a constant evolutionary process day after day. And today, I am a fullstack developer who is always open to new opportunities and challenges!<hr/></div>
 </div>
+
 > What tools and technologies do I use :technologist:
+
+<p align="left">
+:desktop_computer: - techs
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
