@@ -28,3 +28,14 @@ I got to know this fantastic universe of programming through the [Senai school](
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
   <img src="https://user-images.githubusercontent.com/50583973/111923052-03d80a80-8a7c-11eb-8916-e0bc35091931.png" alt="react native" width="25" height="30"/>
 </p>
+
+### :gear: - tools
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="xd" width="30" height="30"/>
+  <img src="https://user-images.githubusercontent.com/50583973/111923548-8f529b00-8a7e-11eb-98b0-e8557c62ea05.png" alt="azure" width="30" height="30"/>
+  <img src="https://user-images.githubusercontent.com/50583973/111923608-bf9a3980-8a7e-11eb-9550-8c8ba5457d66.png" alt="figma" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="30" height="30"/>
+  <img src="https://user-images.githubusercontent.com/50583973/111923726-44855300-8a7f-11eb-9702-1190c153f4f0.png" alt="visual studio code" width="30" height="30"/>
+</p>
