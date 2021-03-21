@@ -3,7 +3,7 @@
 
 <div style="display : flex; align-item: center">
   
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="500px" align="right" alt="Computador">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="600px" max-width="600px" width="600px" align="right" alt="Computador">
   
   <div> Well, talking a little about myself ... I am a development student graduated and studying at the [school Senai of informatics](https://informatica.sp.senai.br/), where I learned to develop systems, such as creating websites and Api´s, and also to create applications for cell phones.
 
@@ -11,7 +11,7 @@ I got to know this fantastic universe of programming through the [Senai school](
 
 <hr/>
   
-  :brazil:    Bom, falando um pouco sobre mim … sou estudante de desenvolvimento formado e cursando na [escola Senai de informática](https://informatica.sp.senai.br/), onde aprendi a desenvolver sistemas para como, como criação de websites e Api´s, e também a criar aplicativos para celulares.
+  :brazil: - Bom, falando um pouco sobre mim … sou estudante de desenvolvimento formado e cursando na [escola Senai de informática](https://informatica.sp.senai.br/), onde aprendi a desenvolver sistemas para como, como criação de websites e Api´s, e também a criar aplicativos para celulares.
 
 Conheci esse fantástico universo da programação através da [escola Senai](https://github.com/senai-desenvolvimento), onde não só me ensinaram a como desenvolver sistemas, mas como me desenvolver como pessoa e como um profissional, sempre me instigando a me desafiar e a ter um processo evolutivo constante dia após dia. E hoje, sou um desenvolvedor fullstack cujo sempre está aberto a novas oportunidades e desafios! 
   </div>
