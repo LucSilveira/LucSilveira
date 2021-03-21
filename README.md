@@ -7,7 +7,7 @@
   
   <div>
   
-  Well, talking a little about myself ... I am a development student graduated and studying at the [school Senai of informatics](https://informatica.sp.senai.br/), where I learned to develop systems, such as creating websites and Api´s, and also to create applications for cell phones.
+  Well, talking a little about myself ... I´m a development student graduated and studying at the [school Senai of informatics](https://informatica.sp.senai.br/), where I learned to develop systems, such as creating websites and Api´s, and also to create applications for cell phones.
   
   <br/>
   
