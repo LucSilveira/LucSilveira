@@ -24,4 +24,5 @@ I got to know this fantastic universe of programming through the [Senai school](
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot net" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="30" height="30"/>
+  <img src="https://user-images.githubusercontent.com/50583973/111923052-03d80a80-8a7c-11eb-8916-e0bc35091931.png" alt="react native" width="30" height="30"/>
 </p>
