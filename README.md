@@ -23,7 +23,7 @@ I got to know this fantastic universe of programming through the [Senai school](
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="30" height="30"/>
-  <img src="https://user-images.githubusercontent.com/50583973/111923290-36cece00-8a7d-11eb-9ad7-2d614e3af27f.png" alt="sql server" width="25" height="30"/>
+  <img src="https://user-images.githubusercontent.com/50583973/111923290-36cece00-8a7d-11eb-9ad7-2d614e3af27f.png" alt="sql server" width="35" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dot net" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
   <img src="https://user-images.githubusercontent.com/50583973/111923052-03d80a80-8a7c-11eb-8916-e0bc35091931.png" alt="react native" width="25" height="30"/>
