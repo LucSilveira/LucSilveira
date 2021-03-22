@@ -4,12 +4,10 @@
 <div style="display : flex; align-item: center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
   
-  <p>
+  <p align="Justify">
   
   Well, talking a little about myself ... I´m a development student graduated and studying at the [school Senai of informatics](https://informatica.sp.senai.br/), where I learned to develop systems, such as creating websites and Api´s, and also to create applications for cell phones.
-  
-  <br/>
-  
+  <br/><br/>
 I got to know this fantastic universe of programming through the [Senai school](https://github.com/senai-desenvolvimento), where they not only taught me how to develop systems, but how to develop myself as a person and as a professional, always instigating me to challenge myself and have a constant evolutionary process day after day. And today, I am a fullstack developer who is always open to new opportunities and challenges!</p><hr/>
 </div>
 
@@ -17,7 +15,7 @@ I got to know this fantastic universe of programming through the [Senai school](
 
 <p align="Justify">
   Who am I behind the camera? Well, I am a very charismatic person who loves to do many things, I am passionate about design :art::computer: (even if not very good), I love creating layouts for websites and applications, and I always like to innovate in each one of them. I am also a music lover, I like to always listen :musical_note: to new things and learn to play new music, after all I am also a musician  	:saxophone: in my spare time (but I still have a lot to study).
-  <br/>
+  <br/><br/>
 I love to read books, after all, with each story we embark on and explore a world totally different from reality, and it takes on other characteristics and personalities in our minds, and I love that feeling. I also really enjoy cooking and taking on the role of mini-chef at home :man_cook:(lol). And I also love watching series :tv: with my friends and taking a few moments to play :video_game: with them, after all who knows maybe one day I might not embark on the world of streams  	:movie_camera::smiling_face_with_three_hearts:?
 </p><br/>
 
