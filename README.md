@@ -15,7 +15,7 @@ I got to know this fantastic universe of programming through the [Senai school](
 
 > A little more about me  	:stuck_out_tongue_winking_eye::v:
 
-<p>
+<p align="left">
   Who am I behind the camera? Well, I am a very charismatic person who loves to do many things, I am passionate about design :art::computer: (even if not very good), I love creating layouts for websites and applications, and I always like to innovate in each one of them. I am also a music lover, I like to always listen :musical_note: to new things and learn to play new music, after all I am also a musician  	:saxophone: in my spare time (but I still have a lot to study).
 
 I love to read books, after all, with each story we embark on and explore a world totally different from reality, and it takes on other characteristics and personalities in our minds, and I love that feeling. I also really enjoy cooking and taking on the role of mini-chef at home :man_cook:(lol). And I also love watching series :tv: with my friends and taking a few moments to play :video_game: with them, after all who knows maybe one day I might not embark on the world of streams  	:movie_camera::smiling_face_with_three_hearts:?
@@ -42,7 +42,7 @@ I love to read books, after all, with each story we embark on and explore a worl
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="25" height="25"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="25" height="25"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="xd" width="25" height="25"/>
-  <img src="https://user-images.githubusercontent.com/50583973/111923548-8f529b00-8a7e-11eb-98b0-e8557c62ea05.png" alt="azure" width="65" height="25"/>
+  <img src="https://user-images.githubusercontent.com/50583973/111923548-8f529b00-8a7e-11eb-98b0-e8557c62ea05.png" alt="azure" width="75" height="25"/>
   <img src="https://user-images.githubusercontent.com/50583973/111923608-bf9a3980-8a7e-11eb-9550-8c8ba5457d66.png" alt="figma" width="60" height="25"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio" width="40" height="30"/>
   <img src="https://user-images.githubusercontent.com/50583973/111923726-44855300-8a7f-11eb-9702-1190c153f4f0.png" alt="visual studio code" width="25" height="25"/>
