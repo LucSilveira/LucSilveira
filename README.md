@@ -15,9 +15,9 @@ I got to know this fantastic universe of programming through the [Senai school](
 
 > A little more about me  	:stuck_out_tongue_winking_eye::v:
 
-<p align="Right">
+<p align="Justify">
   Who am I behind the camera? Well, I am a very charismatic person who loves to do many things, I am passionate about design :art::computer: (even if not very good), I love creating layouts for websites and applications, and I always like to innovate in each one of them. I am also a music lover, I like to always listen :musical_note: to new things and learn to play new music, after all I am also a musician  	:saxophone: in my spare time (but I still have a lot to study).
-
+  <br/>
 I love to read books, after all, with each story we embark on and explore a world totally different from reality, and it takes on other characteristics and personalities in our minds, and I love that feeling. I also really enjoy cooking and taking on the role of mini-chef at home :man_cook:(lol). And I also love watching series :tv: with my friends and taking a few moments to play :video_game: with them, after all who knows maybe one day I might not embark on the world of streams  	:movie_camera::smiling_face_with_three_hearts:?
 </p><br/>
 
