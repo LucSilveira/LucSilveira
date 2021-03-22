@@ -4,7 +4,7 @@
 <div style="display : flex; align-item: center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
   
-  <p align="justify">
+  <p>
   
   Well, talking a little about myself ... I´m a development student graduated and studying at the [school Senai of informatics](https://informatica.sp.senai.br/), where I learned to develop systems, such as creating websites and Api´s, and also to create applications for cell phones.
   
@@ -15,11 +15,11 @@ I got to know this fantastic universe of programming through the [Senai school](
 
 > A little more about me  	:stuck_out_tongue_winking_eye::v:
 
-<p>
+<p align="justify">
   Who am I behind the camera? Well, I am a very charismatic person who loves to do many things lol, I am passionate about design (even if not very good), I love creating layouts for websites and applications, and I always like to innovate in each one of them. I am also a music lover, I like to always listen to new things and learn to play new music, after all I am also a musician in my spare time (but I still have a lot to study).
 
 I love to read books, after all, with each story we embark on and explore a world totally different from reality, and it takes on other characteristics and personalities in our minds, and I love that feeling. I also really enjoy cooking and taking on the role of mini-chef at home (lol). And I also love watching series with my friends and taking a few moments to play with them, after all who knows maybe one day I might not embark on the world of streams?
-</p>
+</p><br/>
 
 > What tools and technologies do I use :technologist:
 
