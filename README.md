@@ -12,7 +12,8 @@
   </div><hr/>
 </div>
 
-> A little more about me  	:stuck_out_tongue_winking_eye::v:
+
+> A little more about me :stuck_out_tongue_winking_eye::v:
 
 <p align="Justify">
   Who am I behind the camera? Well, I am a very charismatic person who loves to do many things, I am passionate about design :art::computer: (even if not very good), I love creating layouts for websites and applications, and I always like to innovate in each one of them. I am also a music lover, I like to always listen :musical_note: to new things and learn to play new music, after all I am also a musician  	:saxophone: in my spare time (but I still have a lot to study).
