@@ -47,6 +47,6 @@
 
 ## Me encontre 🌎
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-silveira-portal)](https://www.linkedin.com/in/lucas-silveira-portal)
+[![Linkedin : Lucas Silveira Portal](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-silveira-portal)](https://www.linkedin.com/in/lucas-silveira-portal)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucSilveira)](https://github.com/LucSilveira/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucSilveira&theme=dracula&show_icons=true)](https://github.com/LucSilveira/github-readme-stats)
