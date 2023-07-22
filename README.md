@@ -1,12 +1,12 @@
 <h1>Hey, I´m Lucas!</h1>
-![](https://komarev.com/ghpvc/?username=LucSilveira&color=006bed)
+![](https://komarev.com/ghpvc/?username=LucSilveira&color=blueviolet&style=flat&label=Visualizações)
 
 ## Sobre mim 🎯
 
 👨‍🏫 Atualmente sou Instrutor Técnico <br>
 👨‍💻 Desenvolvedor a cerca de 3 anos <br>
-💻 Estudando novas técnologias <br>
-🧠 Amo de inteligencia artificial <br>
+💻 Estudando novas tecnologias <br>
+🧠 Amor por inteligencia artificial <br>
 🎮 Geek nas horas vagas <br>
 
 ## Stacks 🚀
