@@ -1,5 +1,5 @@
 <h1>Hey, I´m Lucas!</h1>
-![](https://komarev.com/ghpvc/?username=LucSilveira&color=9417FD)
+![](https://komarev.com/ghpvc/?username=LucSilveira)
 
 ## Sobre mim 🎯
 
