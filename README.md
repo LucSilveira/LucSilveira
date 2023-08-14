@@ -8,7 +8,7 @@
 👨‍💻 Desenvolvedor a cerca de 3 anos <br>
 💻 Estudando novas tecnologias <br>
 🧠 Amor por inteligência artificial <br>
-🎨 Designer de UX  e UI
+🎨 Designer de UX  e UI <br>
 🎮 Geek nas horas vagas <br>
 
 ## Stacks 🚀
