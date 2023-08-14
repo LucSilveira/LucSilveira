@@ -56,5 +56,5 @@
 <div style="width: 100%;margin: 0;padding:0">
   <img src="https://github-readme-stats.vercel.app/api?username=LucSilveira&theme=dracula" style="width: 48%">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucSilveira&theme=dracula" style="width: 48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucSilveira&theme=dracula" style="width: 50%">
 </div>
