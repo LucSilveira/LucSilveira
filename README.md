@@ -53,8 +53,8 @@
 
 <br>
 
-<div>
+<p>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucSilveira&theme=dracula&show_icons=true)](https://github.com/LucSilveira/github-readme-stats)
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=LucSilveira&theme=dracula)
-</div>
+</p>
