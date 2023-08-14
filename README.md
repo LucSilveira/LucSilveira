@@ -7,7 +7,8 @@
 👨‍🏫 Atualmente sou Instrutor Técnico <br>
 👨‍💻 Desenvolvedor a cerca de 3 anos <br>
 💻 Estudando novas tecnologias <br>
-🧠 Amor por inteligencia artificial <br>
+🧠 Amor por inteligência artificial <br>
+🎨 Designer de UX  e UI
 🎮 Geek nas horas vagas <br>
 
 ## Stacks 🚀
