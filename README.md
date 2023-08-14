@@ -53,10 +53,10 @@
 
 <br>
 
-<div style="width: 100%">
+<div style="width: 100%;margin: 0">
   <img src="https://github-readme-stats.vercel.app/api?username=LucSilveira&theme=dracula&show_icons=true" style="width: 45%">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucSilveira&theme=dracula" style="width: 45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucSilveira&theme=dracula" style="width: 50%">
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucSilveira&theme=dracula&show_icons=true)](https://github.com/LucSilveira/github-readme-stats)
